@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 Some of my projects and their status
-- 🔮 ProjectAlchemy: Agile project management tool
+- 🔮 [ProjectAlchemy](https://github.com/senn59/ProjectAlchemy-api): Agile project management tool
   - In development
 - ⚔️ [WordleClash](https://github.com/senn59/WordleClash): Online realtime wordle
   - Planning on improving the UI, removing the account system and fleshing out the application
