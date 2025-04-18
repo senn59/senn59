@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 🔭 Some of my projects and their status
 - 🔮 [ProjectAlchemy](https://github.com/senn59/ProjectAlchemy-api): Agile project management tool
-  - In development
-- ⚔️ [WordleClash](https://github.com/senn59/WordleClash): Online realtime wordle
-  - Planning on improving the UI, removing the account system and fleshing out the application
+  - On hold
+- ⚔️ [WordleClash](https://github.com/senn59/WordleClash-legacy): Online realtime wordle
+  - Making a more sophisticated version in golang
 - 🪄 [ImageAlchemy](https://github.com/senn59/ImageAlchemy): Image editing tool
-  - Planning on rewriting it completely in svelte 5 and tailwind and adding the features I initially wanted 
+  - Planning on rewriting it completely in svelte 5 and adding some core features that are not currently present
